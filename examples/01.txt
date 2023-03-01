@@ -1,0 +1,2 @@
+fd ff 4b 46 7f ff 0c 10 95 : crc=95 YES
+fd ff 4b 46 7f ff 0c 10 95 t=-187
